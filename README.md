@@ -5,7 +5,7 @@ Este projeto é uma tradução do projeto Java original para Python, mantendo a 
 ## Estrutura
 
 ```text
-Ed2Apl22024_python/
+AnalisadorAVLBST/
 ├── README.md
 ├── .gitignore
 └── src/
